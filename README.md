@@ -189,7 +189,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 5. Open a Pull Request
 
 **Built with ❤️ for financial security and fraud prevention**
-
-[10] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/ec27c44a-133c-4efc-9baf-0d0a5ccd5dec/nlp.py
-[11] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/bdfde615-e34b-4d22-affa-b6bcdfa05b01/nlp_activities.py
-[12] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/b8523bce-8c09-483f-a130-433d387e362d/nlp_countries.py
