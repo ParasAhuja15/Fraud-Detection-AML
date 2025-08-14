@@ -3,7 +3,7 @@ Credit Card Fraud Detection &amp; AML Onboarding (PySpark, Kafka, Cassandra, ML,
 # 🚀 Real-Time Credit Card Fraud Detection System
 
 [
-[![Apache Spark](https://img.shields.ioo/badge/Apache://img.shieldse, production-ready **Real-Time Credit Card Fraud Detection System** that leverages advanced machine learning techniques, big data technologies, and real-time streaming to identify and prevent fraudulent transactions with high accuracy and minimal latency.
+**Real-Time Credit Card Fraud Detection System** that leverages advanced machine learning techniques, big data technologies, and real-time streaming to identify and prevent fraudulent transactions with high accuracy and minimal latency.
 
 ## 🎯 Overview
 
